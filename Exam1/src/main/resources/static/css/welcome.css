@@ -1,0 +1,51 @@
+.welcome {
+text-align: center;
+
+}
+h1{
+    color:#db2316;
+}
+
+
+.links {
+text-align: center;
+}
+
+#reg{
+
+      background-color: #f44336;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+
+}
+
+#reg:hover, #reg:active {
+      background-color: red;
+    }
+
+#log{
+
+          background-color: #63b80f;
+          color: white;
+          padding: 14px 25px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+
+ }
+
+
+
+
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url(https://www.cognixia.com/us/wp-content/uploads/2019/03/cognixia-logo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
